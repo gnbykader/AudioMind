@@ -75,5 +75,5 @@ Bu nedenle, veri gizliliği korunur; hiçbir ses veya metin harici sunuculara g�
 
 Projeyi canlı olarak incelemek ve test etmek için aşağıdaki linki kullanabilirsiniz:
 
-[AudioMind Uygulaması](https://username-streamlit-appname.streamlit.app)
+[AudioMind Uygulaması](https://audiomind-9axrqm2ybtv23rd9sapp2fg.streamlit.app)
 
