@@ -71,3 +71,9 @@ Bu nedenle, veri gizliliği korunur; hiçbir ses veya metin harici sunuculara g�
    ```bash
    pip install -r requirements.txt
 
+## Web Arayüzü
+
+Projeyi canlı olarak incelemek ve test etmek için aşağıdaki linki kullanabilirsiniz:
+
+[AudioMind Uygulaması](https://username-streamlit-appname.streamlit.app)
+
