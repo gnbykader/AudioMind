@@ -55,13 +55,13 @@ Bu nedenle, veri gizliliği korunur; hiçbir ses veya metin harici sunuculara g�
 
 ## 📷 Ekran Görüntüleri  
 **1) Ses Yükleme**  
-![Ses Yükleme](img/AudioMind-1.png)  
+![Ses Yükleme](./img/AudioMind-1.png)  
 
 **2) Metne Çevirme (Transkript Görünümü)**  
-![Transkript](img/AudioMind-2.png)  
+![Transkript](./img/AudioMind-2.png)  
 
 **3) Özetleme ve İndirme**  
-![Özet Ekranı](img/AudioMind-3.png)  
+![Özet Ekranı](./img/AudioMind-3.png)  
 
 ---
 
