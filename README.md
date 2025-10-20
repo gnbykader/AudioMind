@@ -49,7 +49,7 @@ Bu nedenle, veri gizliliği korunur; hiçbir ses veya metin harici sunuculara g�
 ├── app.py                # Ana uygulama dosyası
 ├── requirements.txt      # Gereken kütüphaneler listesi
 ├── .env                  # API anahtarlarının tutulduğu gizli dosya
-└── images/               # Ekran görüntüleri
+└── img/                  # Ekran görüntüleri
 
 ---
 
@@ -57,15 +57,15 @@ Bu nedenle, veri gizliliği korunur; hiçbir ses veya metin harici sunuculara g�
 <div align="center">
 
 ### 🎵 Ses Yükleme
-<img src="./img/AudioMind-1.png" width="80%">
+<img src="img/AudioMind-1.png" alt="Ses Yükleme" width="80%"/>
 
 ### 🔊 Metne Çevirme  
-<img src="./img/AudioMind-2.png" width="80%">
+<img src="img/AudioMind-2.png" alt="Metne Çevirme" width="80%"/>
 
 ### 📝 Özetleme ve İndirme
-<img src="./img/AudioMind-3.png" width="80%">
+<img src="img/AudioMind-3.png" alt="Özetleme ve İndirme" width="80%"/>
 
-</div>)  
+</div> 
 
 ---
 
