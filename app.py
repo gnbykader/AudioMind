@@ -5,6 +5,12 @@ import google.generativeai as genai
 import os
 from dotenv import load_dotenv
 
+#Stremalit sayfa ayarları
+st.set_page_config(
+    page_title="AudioMind",
+    page_icon="🎧",
+)
+
 #Uygulama başlığı ve açıklaması (HTML ile özel tasarım)
 st.markdown("""
     <div style='background-color:black;padding:15px; border-radius:15px'>
@@ -28,11 +34,6 @@ def generate_summary(text, style):
     return getattr(response, "text",str(response))
 
 
-#Stremalit sayfa ayarları
-st.set_page_config(
-    page_title="AudioMind",
-    page_icon="🎧",
-)
 
 #CSS ile buton tasarımı
 st.markdown("""
