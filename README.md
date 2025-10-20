@@ -54,10 +54,7 @@ Bu nedenle, veri gizliliği korunur; hiçbir ses veya metin harici sunuculara g�
 ---
 
 ## 📷 Ekran Görüntüleri  
-<div align="center">
-
 ### 🎵 Ses Yükleme
-// HTML tag yerine Markdown söz dizimini kullanın
 ![Ses Yükleme](img/AudioMind-1.png) 
 
 ### 🔊 Metne Çevirme  
@@ -66,7 +63,6 @@ Bu nedenle, veri gizliliği korunur; hiçbir ses veya metin harici sunuculara g�
 ### 📝 Özetleme ve İndirme
 ![Özetleme ve İndirme](img/AudioMind-3.png) 
 
-</div>
 
 ---
 
